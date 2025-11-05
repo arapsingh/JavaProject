@@ -14,7 +14,7 @@
 		<dependency>
 			<groupId>com.microsoft.sqlserver</groupId>
 			<artifactId>mssql-jdbc</artifactId>
-			<version>8.4.1.jre14</version>
+			<version>10.2.4.jre8</version>
 		</dependency>
 		<dependency>
 			<groupId>org.hibernate</groupId>
@@ -128,7 +128,7 @@
 		<dependency>
 			<groupId>com.microsoft.sqlserver</groupId>
 			<artifactId>mssql-jdbc</artifactId>
-			<version>9.4.1.jre8</version>
+			<version>10.2.4.jre8</version>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.poi</groupId>
